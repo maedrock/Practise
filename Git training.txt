@@ -1,0 +1,8 @@
+Запускаем Git bash
+cd C:/D/... выбираем путь для актуальной папки с проектом
+git init C:/D/... создаем репозиторий для проекта
+
+git commit -m "<описание изменения>"
+
+тренинг для git:
+https://learngitbranching.js.org/?locale=ru_RU 
